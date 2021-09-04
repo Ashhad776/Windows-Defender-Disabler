@@ -1,7 +1,4 @@
-# Windows-Defender-Disabler
-
-
-Steps:
+#Steps:
 
 Before extracting the file turn off real time protection off.
 
