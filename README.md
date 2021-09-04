@@ -1,4 +1,4 @@
-#Steps:
+Steps:
 
 Before extracting the file turn off real time protection off.
 
